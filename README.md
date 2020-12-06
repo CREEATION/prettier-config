@@ -23,15 +23,21 @@ Then, in your `package.json`, set `prettier` to `@creeation/prettier-config`:
 ## Package Development Scripts and Callbacks
 
 ### `test`
+
 Checks if package files are formatted correctly using Prettier
+
 > Note: bound to [`prepare`](https://docs.npmjs.com/cli/v6/using-npm/scripts#life-cycle-scripts)
+
 ```console
 $ npm run test
 ```
 
 ### `format`
+
 Formats and saves package files using Prettier
+
 > Note: bound to [`prepublishOnly`](https://docs.npmjs.com/cli/v6/using-npm/scripts#life-cycle-scripts)
+
 ```console
 $ npm run format
 ```
