@@ -1,8 +1,8 @@
 # @creeation/prettier-config
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/creeation/prettier-config?style=flat-square)
-![npm (scoped)](https://img.shields.io/npm/v/@creeation/prettier-config?style=flat-square)
-![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/creeation/prettier-config?style=flat-square)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/creeation/prettier-config?style=flat-square)](https://github.com/CREEATION/prettier-config)
+[![npm (scoped)](https://img.shields.io/npm/v/@creeation/prettier-config?style=flat-square)](https://www.npmjs.com/package/@creeation/prettier-config)
+[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/@creeation/prettier-config?style=flat-square)](https://www.npmjs.com/package/@creeation/prettier-config?activeTab=dependencies)
 
 Repository holding my personal Prettier configuration.
 
