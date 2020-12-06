@@ -1,0 +1,16 @@
+{
+  "name": "@creeation/prettier-config",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/creeation/prettier-config.git"
+  },
+  "main": "index.json",
+  "dependencies": {
+    "prettier": "2.2.1",
+    "prettier-plugin-sh": "^0.6.0"
+  },
+  "peerDependencies": {
+    "prettier": ">= 1.15.0"
+  }
+}
