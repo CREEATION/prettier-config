@@ -12,5 +12,19 @@
   "singleQuote": false,
   "tabWidth": 2,
   "trailingComma": "all",
-  "useTabs": false
+  "useTabs": false,
+  "overrides": [
+    {
+      "files": "package-lock.json",
+      "options": {
+        "printWidth": 120
+      }
+    },
+    {
+      "files": ["*.json", "*.md"],
+      "options": {
+        "trailingComma": "none"
+      }
+    }
+  ]
 }
