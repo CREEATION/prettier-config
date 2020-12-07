@@ -41,3 +41,7 @@ Formats and saves package files using Prettier
 ```console
 $ npm run format
 ```
+
+---
+
+**Keywords**: `creeation`, `prettier`, `prettierconfig`, `prettier-config`
