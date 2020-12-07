@@ -2,6 +2,12 @@
   "name": "@creeation/prettier-config",
   "version": "1.0.2",
   "description": "Personal Prettier config file",
+  "keywords": [
+    "creeation",
+    "prettier",
+    "prettierconfig",
+    "prettier-config"
+  ],
   "homepage": "https://github.com/CREEATION/prettier-config",
   "bugs": "https://github.com/CREEATION/prettier-config/issues",
   "repository": "creeation/prettier-config",
