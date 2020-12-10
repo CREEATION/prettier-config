@@ -32,7 +32,7 @@ Then, in your `package.json`, set `prettier` to `@creeation/prettier-config`:
 #### `pre-commit`
 
 ```console
-$ npm run pretty-quick --staged
+$ npm run git:pre-commit
 ```
 
 ### npm [Scripts](https://docs.npmjs.com/cli/v7/using-npm/scripts)

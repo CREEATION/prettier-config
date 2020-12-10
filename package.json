@@ -19,7 +19,7 @@
   },
   "main": ".prettierrc.json",
   "scripts": {
-    "format": "npm run pretty-quick --bail",
+    "git:pre-commit": "npm run pretty-quick -- --staged",
     "postinstall": "npx husky install",
     "prepublishOnly": "npm test && npx pinst --disable",
     "pretty-quick": "npx -p prettier@2.2.1 -p pretty-quick pretty-quick",
