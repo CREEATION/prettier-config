@@ -41,6 +41,8 @@ $ npm run git:pre-commit
 
 Checks if package files are formatted correctly using Prettier
 
+> _Note: bound to [`prepublishOnly`](https://docs.npmjs.com/cli/v7/using-npm/scripts#life-cycle-scripts)_
+
 ```console
 $ npm test
 ```
@@ -48,8 +50,6 @@ $ npm test
 #### `format`
 
 Formats and saves all package files using Prettier
-
-> _Note: bound to [`prepublishOnly`](https://docs.npmjs.com/cli/v7/using-npm/scripts#life-cycle-scripts)_
 
 ```console
 $ npm run format
