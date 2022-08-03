@@ -2,7 +2,7 @@
 
 [![npm (scoped)](https://img.shields.io/npm/v/@creeation/prettier-config?style=flat-square)](https://www.npmjs.com/package/@creeation/prettier-config)
 [![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/creeation/prettier-config/dev/prettier?style=flat-square)](https://www.npmjs.com/package/prettier)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](./LICENSE)
+[![License](https://img.shields.io/github/license/CREEATION/prettier-config?style=flat-square)](./LICENSE)
 
 Repository holding my personal Prettier configuration.
 
