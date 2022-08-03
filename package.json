@@ -11,7 +11,7 @@
   "homepage": "https://github.com/creeation/prettier-config",
   "bugs": "https://github.com/creeation/prettier-config/issues",
   "repository": "creeation/prettier-config",
-  "license": "Unlicense",
+  "license": "MIT",
   "author": {
     "name": "Thomas Creeten",
     "email": "thomas@creeation.de",
