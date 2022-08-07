@@ -9,7 +9,7 @@ Repository holding my personal Prettier configuration.
 ## Installation
 
 ```console
-$ npm i -D @creeation/prettier-config
+npm i -D @creeation/prettier-config
 ```
 
 Then, in your `package.json`, set `prettier` to `@creeation/prettier-config`:
